@@ -1,0 +1,43 @@
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: rgb(20, 2, 2);
+    background-color: #9a9c20 }
+  
+    
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+  }
+        .container {
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+        input {
+            width: 100%;
+            padding: 5px;
+        }
+        button {
+            margin-top: 10px;
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+        p {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+  

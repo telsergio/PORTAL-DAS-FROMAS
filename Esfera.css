@@ -1,0 +1,42 @@
+
+
+body {
+  padding-left: 11em;
+  color: rgb(20, 2, 2);
+  background-color: #9a9c20 }
+
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+img {
+    width: 200px;
+    cursor: pointer;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="number"] {
+    width: 80px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 20px;
+}

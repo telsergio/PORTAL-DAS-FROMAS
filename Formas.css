@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #abac78 
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.shape {
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+ul.navbar li {
+    background: rgb(192, 185, 201);
+    margin-left: 700px;
+    margin: 1px 700px;
+    padding: 10px;
+    border-right: 20px solid rgb(43, 179, 43);
+    border-left: 20px solid rgb(43, 179, 43);
+}
+  ul.navbar a {
+    margin-left: 130px;
+    text-align: center;}
+  a:link {
+    color: rgb(0, 0, 0) }
+  a:visited {
+    color: rgb(0, 0, 0) }
+ 
+
+.css img{
+    float: left;
+    width: 20%;
+    padding: 4px;
+    margin: 18px 10px 10px 0;
+   }
+
